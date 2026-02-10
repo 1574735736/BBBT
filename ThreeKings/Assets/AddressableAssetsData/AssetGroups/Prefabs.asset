@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a3464b32490bec94cb691d6d32ff3af5
+  m_SerializeEntries:
+  - m_GUID: 021caa6bbbb95a2428c9102d6ef522c3
+    m_Address: ChangePasswordView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 031965cd47478a14aa5d5719051c3f7a
+    m_Address: MonthAwardView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 154095eaabb175148abc037b37a92a35
+    m_Address: AwardContentView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18410f42407e7f0408d70eece5742c22
+    m_Address: ShopView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2178d2bf832e7094ca7fdc58bda44dbd
+    m_Address: BankView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28130b0328217a44290ed6b7f2c8c9d0
+    m_Address: DegreeView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28af133bbc4be76489924298a33daea4
+    m_Address: RegisterView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 365a06cbe6d7d3842be717acc320c4f0
+    m_Address: FriendInfoView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 377ea9f8bcfdeda458bed9754fe2b78c
+    m_Address: TeamApplicationView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d630dd36e1c6cc4395ab5af0231e611
+    m_Address: EmailAwardNumView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4313fa42bc8af2e4d9274dae873fbc0e
+    m_Address: ActivityView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ca5c9c64d4a0684a9788451dea4fdbe
+    m_Address: PointsMallView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59ca5768b93d4e6408944f19da180965
+    m_Address: TalentStoneView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a0e9355f305b3442b6412eb773f5b7c
+    m_Address: RankView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e28ff204419a134b944f66db762a948
+    m_Address: FactionCreateTip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70a435ce1f7c71540bf46eb5c32d4171
+    m_Address: NoticeView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74db5422abc7e2f4596a3c832f5ef0e8
+    m_Address: BackpackView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 768a097a759e13c40b3931850ee8cc91
+    m_Address: UserInfoView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7955f3494f1d0e542920a409128dd22a
+    m_Address: EmailSendView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cc06579bcc270e48937318fc75e18dd
+    m_Address: ExchangeView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8314f374910da9641ab50faf573a899e
+    m_Address: MultiplayerTeamView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9292dbb0db4fd594d86e2d52faa4d3cd
+    m_Address: FactionCreateView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9692c46181fd60b43ab16382e978af39
+    m_Address: AccountLoginView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98430acd12c55804eb6d52b9b05c6c15
+    m_Address: SettingView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cf803c332ca30b4fb306164891c30b4
+    m_Address: BankOldRecordView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3c7aa5e4be4fbf4b9f96cecef29fecb
+    m_Address: AuctionView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8f46fc052140c84dab6a3006279e439
+    m_Address: ChangeNameView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad231d8fd7da0ef419b31d75b44117ce
+    m_Address: EmailView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba43db4147f273647a9981b970353955
+    m_Address: PostStationView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb7b9dbe5debc774ea4a73c1afebd5b1
+    m_Address: TeamListView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3fa9df1dc183c246a753f2ec8d32fa3
+    m_Address: EamilBackPackView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e50285c3c9d39a842bc43c055d0e2eb3
+    m_Address: FriendListView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8db8afc8a651ef44aa98e9f6ae19e4b
+    m_Address: ChangeServerView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef929f5ddb02d2d47b516dd13664ea74
+    m_Address: LotteryView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5885553dafb2c1468264def85cce247
+    m_Address: FactionView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1958c26d42e4a86488f1aca03ae8d488, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 42c6c1dd4abbd9743b74a6468760ae75, type: 2}
+    - {fileID: 11400000, guid: bc8fc667da58d634db4399abecb2ab99, type: 2}

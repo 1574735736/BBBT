@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UnPrefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: UnPrefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fb53609804bfc2746bb069d2735da0b5
+  m_SerializeEntries:
+  - m_GUID: 16cf041ef55aa1c4caec68322b58683a
+    m_Address: SamsaraView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cf9771d3f7ff10408a5f1381b3b2b23
+    m_Address: PVPView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 201f6b7c8ccef1442b80134e18785e2d
+    m_Address: MemoirsView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2af9a8594f2a63240a2c507ecc666649
+    m_Address: HomelandView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 515078eac0ec1224089c65d082936a7f
+    m_Address: CityLordView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52e828ede4928594eab54ff5179d7f3e
+    m_Address: RecruitmentView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60e9dbd7647093b48803a0ac02eeadfe
+    m_Address: StallView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71b39fab593bb0e45907b47000ecc43b
+    m_Address: ApprenticeshipView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92e04cf01903bcf44950c16b8c505882
+    m_Address: BlacksmithView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a600ae977c98f294bb41ee5d36d87c14
+    m_Address: GeneralView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dace8328adf27bd45b13cc2060e13a04
+    m_Address: CasinoView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1958c26d42e4a86488f1aca03ae8d488, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7dad9c1a0f4993c48b2aa0182fe09ca0, type: 2}
+    - {fileID: 11400000, guid: ee2e499d2343f9741a5edffd699d0baf, type: 2}

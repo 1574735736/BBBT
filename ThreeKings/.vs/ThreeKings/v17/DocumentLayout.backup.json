@@ -1,0 +1,1238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|e:\\unity\\threekingdoms\\threekings\\assets\\scripts\\net\\netmanager\\unitywebsocketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\netmanager\\unitywebsocketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|e:\\unity\\threekingdoms\\threekings\\assets\\scripts\\configs\\frameworkconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\configs\\frameworkconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\email\\emailpagetwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\email\\emailpagetwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\email\\emailpageone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\email\\emailpageone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\email\\emailpagethree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\email\\emailpagethree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\net\\teamdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\teamdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\teamview\\multiplayerteamview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\teamview\\multiplayerteamview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\teamview\\teamlistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\teamview\\teamlistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\common\\uiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\uiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\teamview\\teamapplicationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\teamview\\teamapplicationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\email\\emailview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\email\\emailview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\net\\emaildb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\emaildb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\email\\emailsystemitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\email\\emailsystemitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\email\\emailawarditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\email\\emailawarditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\net\\backpackdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\backpackdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\login\\changeserveritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\login\\changeserveritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\net\\frienddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\frienddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\email\\eamilbackpackview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\email\\eamilbackpackview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\login\\characterroleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\login\\characterroleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\net\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\friend\\friendlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\friend\\friendlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\login\\changeserverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\login\\changeserverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\hall\\hallview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\hall\\hallview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\talentstoneview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\talentstoneview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\friend\\friendinfoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\friend\\friendinfoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\hall\\hallteamtalkview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\hall\\hallteamtalkview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\friend\\friendlistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\friend\\friendlistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\casinoview\\casinoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\casinoview\\casinoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\common\\uibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\uibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\factionview\\factionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\factionview\\factionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\factionview\\factioncreateview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\factionview\\factioncreateview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\factionview\\factionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\factionview\\factionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\stallview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\stallview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\common\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\userinfoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\userinfoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\pvp\\pvpview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pvp\\pvpview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\apprenticeship\\apprenticeshipview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\apprenticeship\\apprenticeshipview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\noticeview\\noticeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\noticeview\\noticeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\lord\\citylordview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\lord\\citylordview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\blacksmith\\blacksmithview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\blacksmith\\blacksmithview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\samsara\\samsaraview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\samsara\\samsaraview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\recruitment\\recruitmentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\recruitment\\recruitmentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\login\\registerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\login\\registerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\common\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\login\\accountloginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\login\\accountloginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\login\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\login\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\login\\changepasswordview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\login\\changepasswordview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\utility\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utility\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\net\\commondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\commondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\net\\noticedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\noticedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\net\\netmanager\\httpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net\\netmanager\\httpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\activitypop1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\activitypop1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\activityview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\activityview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\homelandview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\homelandview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\settingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\settingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\rankview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\rankview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\poststationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\poststationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\pointsmallview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\pointsmallview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\monthawardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\monthawardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\lotteryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\lotteryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\exchangeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\exchangeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\degreeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\degreeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\changenameview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\changenameview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\bankview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\bankview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\bankoldrecordview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\bankoldrecordview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\awardcontentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\awardcontentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\auctionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\auctionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\hall\\halluserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\hall\\halluserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\ui\\popup\\memoirsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popup\\memoirsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\loading\\transitionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loading\\transitionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|E:\\Unity\\ThreeKingdoms\\ThreeKings\\assets\\scripts\\alertmanager\\alertloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE3EF1-BE9A-2033-BA1A-FCE24A616D78}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\alertmanager\\alertloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\FactionCreateTip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\PopUp\\FactionCreateTip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\BackpackView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\PopUp\\BackpackView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\MultiplayerTeamView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\PopUp\\MultiplayerTeamView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\TeamApplicationView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\PopUp\\TeamApplicationView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\TeamListView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\PopUp\\TeamListView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnityWebSocketManager.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\NetManager\\UnityWebSocketManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\NetManager\\UnityWebSocketManager.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\NetManager\\UnityWebSocketManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\NetManager\\UnityWebSocketManager.cs",
+              "ViewState": "AgIAABkCAAAAAAAAAAAmwBsCAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:26:48.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailPageTwo.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Email\\EmailPageTwo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Email\\EmailPageTwo.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Email\\EmailPageTwo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Email\\EmailPageTwo.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwJ8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T09:00:40.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MultiplayerTeamView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\TeamView\\MultiplayerTeamView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TeamView\\MultiplayerTeamView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\TeamView\\MultiplayerTeamView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\TeamView\\MultiplayerTeamView.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T03:34:11.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeamApplicationView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\TeamView\\TeamApplicationView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TeamView\\TeamApplicationView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\TeamView\\TeamApplicationView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\TeamView\\TeamApplicationView.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAvwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T03:34:03.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamDb.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\TeamDb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\TeamDb.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\TeamDb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\TeamDb.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAUwJYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T03:17:02.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeamListView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\TeamView\\TeamListView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TeamView\\TeamListView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\TeamView\\TeamListView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\TeamView\\TeamListView.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T03:16:38.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailSystemItem.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Email\\EmailSystemItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Email\\EmailSystemItem.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Email\\EmailSystemItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Email\\EmailSystemItem.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T09:24:40.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailPageOne.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Email\\EmailPageOne.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Email\\EmailPageOne.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Email\\EmailPageOne.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Email\\EmailPageOne.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAnwHUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:16:25.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailAwardItem.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Email\\EmailAwardItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Email\\EmailAwardItem.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Email\\EmailAwardItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Email\\EmailAwardItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:44:12.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrameworkConfig.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Configs\\FrameworkConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Configs\\FrameworkConfig.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Configs\\FrameworkConfig.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Configs\\FrameworkConfig.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewCcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T09:29:37.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailPageThree.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Email\\EmailPageThree.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Email\\EmailPageThree.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Email\\EmailPageThree.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Email\\EmailPageThree.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAUwHAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T08:59:36.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BackpackDb.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\BackpackDb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\BackpackDb.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\BackpackDb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\BackpackDb.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwIwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T06:31:55.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailDb.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\EmailDb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\EmailDb.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\EmailDb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\EmailDb.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAewEYBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:45:04.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UIConfig.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Common\\UIConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\UIConfig.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Common\\UIConfig.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\UIConfig.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAvwC4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:20:08.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CharacterRoleView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Login\\CharacterRoleView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Login\\CharacterRoleView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Login\\CharacterRoleView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Login\\CharacterRoleView.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T06:59:33.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CasinoView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\CasinoView\\CasinoView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CasinoView\\CasinoView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\CasinoView\\CasinoView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CasinoView\\CasinoView.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:21:06.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FactionView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\FactionView\\FactionView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\FactionView\\FactionView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\FactionView\\FactionView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\FactionView\\FactionView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:43:39.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Email\\EmailView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Email\\EmailView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Email\\EmailView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Email\\EmailView.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T08:24:48.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChangeServerItem.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Login\\ChangeServerItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Login\\ChangeServerItem.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Login\\ChangeServerItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Login\\ChangeServerItem.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAvwFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T06:52:56.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FriendDb.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\FriendDb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\FriendDb.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\FriendDb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\FriendDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:16:43.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FriendInfoView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Friend\\FriendInfoView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Friend\\FriendInfoView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Friend\\FriendInfoView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Friend\\FriendInfoView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:51:55.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EamilBackPackView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Email\\EamilBackPackView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Email\\EamilBackPackView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Email\\EamilBackPackView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Email\\EamilBackPackView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T08:20:46.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HallView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Hall\\HallView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Hall\\HallView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Hall\\HallView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Hall\\HallView.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:29:28.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HallTeamTalkView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Hall\\HallTeamTalkView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Hall\\HallTeamTalkView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Hall\\HallTeamTalkView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Hall\\HallTeamTalkView.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADgvyUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T06:58:08.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDb.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\UserDb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\UserDb.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\UserDb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\UserDb.cs",
+              "ViewState": "AgIAAIkCAAAAAAAAAAAowKICAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T09:14:27.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FriendListItem.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Friend\\FriendListItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Friend\\FriendListItem.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Friend\\FriendListItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Friend\\FriendListItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T06:42:03.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "FactionCreateTip.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\FactionCreateTip.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\FactionCreateTip.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\FactionCreateTip.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\FactionCreateTip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:41:31.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FriendListView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Friend\\FriendListView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Friend\\FriendListView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Friend\\FriendListView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Friend\\FriendListView.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAtwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T06:42:50.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TalentStoneView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\TalentStoneView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\TalentStoneView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\TalentStoneView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\TalentStoneView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T03:25:26.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChangeServerView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Login\\ChangeServerView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Login\\ChangeServerView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Login\\ChangeServerView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Login\\ChangeServerView.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADgv1UAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T06:52:52.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PVPView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PVP\\PVPView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PVP\\PVPView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PVP\\PVPView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PVP\\PVPView.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:00:29.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AccountLoginView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Login\\AccountLoginView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Login\\AccountLoginView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Login\\AccountLoginView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Login\\AccountLoginView.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAMwCIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:10:57.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Common\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\UIManager.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Common\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\UIManager.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAEwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:29:19.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserInfoView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\UserInfoView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\UserInfoView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\UserInfoView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\UserInfoView.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAqwGAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:40:31.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UIBase.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Common\\UIBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\UIBase.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Common\\UIBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\UIBase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAvwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:28:36.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FactionItem.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\FactionView\\FactionItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\FactionView\\FactionItem.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\FactionView\\FactionItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\FactionView\\FactionItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:44:12.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FactionCreateView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\FactionView\\FactionCreateView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\FactionView\\FactionCreateView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\FactionView\\FactionCreateView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\FactionView\\FactionCreateView.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvw4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:46:44.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StallView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\StallView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\StallView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\StallView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\StallView.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:18:59.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoginPanel.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Login\\LoginPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Login\\LoginPanel.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Login\\LoginPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Login\\LoginPanel.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwCcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:52:54.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApprenticeshipView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Apprenticeship\\ApprenticeshipView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Apprenticeship\\ApprenticeshipView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Apprenticeship\\ApprenticeshipView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Apprenticeship\\ApprenticeshipView.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:55:40.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BlacksmithView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Blacksmith\\BlacksmithView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Blacksmith\\BlacksmithView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Blacksmith\\BlacksmithView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Blacksmith\\BlacksmithView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T03:32:36.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NoticeView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\NoticeView\\NoticeView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\NoticeView\\NoticeView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\NoticeView\\NoticeView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\NoticeView\\NoticeView.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:15:23.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CityLordView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Lord\\CityLordView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Lord\\CityLordView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Lord\\CityLordView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Lord\\CityLordView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:39:39.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Common\\DataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\DataManager.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Common\\DataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\DataManager.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAMwNoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:17:17.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SamsaraView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Samsara\\SamsaraView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Samsara\\SamsaraView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Samsara\\SamsaraView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Samsara\\SamsaraView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T03:15:57.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RecruitmentView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Recruitment\\RecruitmentView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Recruitment\\RecruitmentView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Recruitment\\RecruitmentView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Recruitment\\RecruitmentView.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:57:22.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ChangePasswordView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Login\\ChangePasswordView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Login\\ChangePasswordView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Login\\ChangePasswordView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Login\\ChangePasswordView.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwBcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T02:34:54.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RegisterView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Login\\RegisterView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Login\\RegisterView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Login\\RegisterView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Login\\RegisterView.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAWwDIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T03:32:38.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Utility\\Utility.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utility\\Utility.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Utility\\Utility.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utility\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:24:18.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "NoticeDb.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\NoticeDb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\NoticeDb.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\NoticeDb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\NoticeDb.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAvwKIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T09:54:29.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ActivityPop1.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\ActivityPop1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\ActivityPop1.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\ActivityPop1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\ActivityPop1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:23:53.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CommonDb.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\CommonDb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\CommonDb.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\CommonDb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\CommonDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T10:08:06.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ActivityView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\ActivityView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\ActivityView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\ActivityView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\ActivityView.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:59:10.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "HomelandView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\HomelandView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\HomelandView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\HomelandView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\HomelandView.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAvwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:46:29.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "HttpManager.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\NetManager\\HttpManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net\\NetManager\\HttpManager.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Net\\NetManager\\HttpManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net\\NetManager\\HttpManager.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAvwEgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:32:01.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ExchangeView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\ExchangeView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\ExchangeView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\ExchangeView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\ExchangeView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:07:12.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PostStationView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\PostStationView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\PostStationView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\PostStationView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\PostStationView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:15:48.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LotteryView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\LotteryView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\LotteryView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\LotteryView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\LotteryView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:08:06.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MonthAwardView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\MonthAwardView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\MonthAwardView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\MonthAwardView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\MonthAwardView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:08:40.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "MultiplayerTeamView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\MultiplayerTeamView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\MultiplayerTeamView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\MultiplayerTeamView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\MultiplayerTeamView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:09:15.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PointsMallView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\PointsMallView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\PointsMallView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\PointsMallView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\PointsMallView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:10:07.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SettingView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\SettingView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\SettingView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\SettingView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\SettingView.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:54:57.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "TeamApplicationView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\TeamApplicationView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\TeamApplicationView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\TeamApplicationView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\TeamApplicationView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:16:45.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "TeamListView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\TeamListView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\TeamListView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\TeamListView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\TeamListView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:25:00.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RankView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\RankView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\RankView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\RankView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\RankView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:16:14.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DegreeView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\DegreeView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\DegreeView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\DegreeView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\DegreeView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:06:26.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ChangeNameView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\ChangeNameView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\ChangeNameView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\ChangeNameView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\ChangeNameView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:04:58.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "BankView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\BankView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\BankView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\BankView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\BankView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:02:38.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BankOldRecordView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\BankOldRecordView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\BankOldRecordView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\BankOldRecordView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\BankOldRecordView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:02:10.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "BackpackView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\BackpackView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\BackpackView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\BackpackView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\BackpackView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:00:48.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AwardContentView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\AwardContentView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\AwardContentView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\AwardContentView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\AwardContentView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:00:13.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AuctionView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\AuctionView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\AuctionView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\AuctionView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\AuctionView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:59:45.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "MemoirsView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\MemoirsView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopUp\\MemoirsView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\PopUp\\MemoirsView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopUp\\MemoirsView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:38:19.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "HallUserView.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Hall\\HallUserView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Hall\\HallUserView.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\UI\\Hall\\HallUserView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Hall\\HallUserView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:28:51.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "TransitionPage.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Loading\\TransitionPage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Loading\\TransitionPage.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\Loading\\TransitionPage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Loading\\TransitionPage.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:03:18.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AlertLoading.cs",
+              "DocumentMoniker": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\AlertManager\\AlertLoading.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AlertManager\\AlertLoading.cs",
+              "ToolTip": "E:\\Unity\\ThreeKingdoms\\ThreeKings\\Assets\\Scripts\\AlertManager\\AlertLoading.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AlertManager\\AlertLoading.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:31:19.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
